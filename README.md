@@ -1,2 +1,0 @@
-# HoverFilterImage
-Created with CodeSandbox
